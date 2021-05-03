@@ -1,0 +1,19 @@
+.navBar{
+    background-color: lightgray;
+   padding: 30px;
+   text-align: right;
+
+}
+.navLink{
+   text-decoration: none;
+   padding: 30px;
+   font-size: 20px;
+  
+}
+.navItem{
+    display: inline-block; 
+}
+.navLink:hover{  
+    background-color: blanchedalmond;
+    color: black;
+}
